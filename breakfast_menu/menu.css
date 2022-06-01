@@ -1,0 +1,24 @@
+body {
+  font-family: Arial;
+  font-size: 12px;
+  background-color: #eeeeee;
+}
+
+.heading {
+  background-color: blueviolet;
+  color: white;
+  padding: 4px;
+}
+.foodStyle {
+  font-weight: bold;
+  display: inline-block;
+}
+.descStyle {
+  margin-left: 20px;
+  margin-bottom: 1em;
+  font-size: 1rem;
+}
+
+.caloriesStyle {
+  font-style: italic;
+}

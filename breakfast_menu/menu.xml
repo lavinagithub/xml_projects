@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="menu.xsl"?>
+<bmenu>
+    <item category="main">
+        <name>Pancakes</name>
+        <price>$10</price>
+        <displayimg text="img of pancake" name="pancakes.jpeg">pancakes.jpeg</displayimg>
+        <desc>Plain pancakes with syrup</desc>
+        <allergy_info>Can contain traces of nuts</allergy_info>
+    </item>
+
+    <item category="main">
+        <name>Doughnuts</name>
+        <price>$8</price>
+        <displayimg text="img of pancake" name="pancakes.jpeg">pancakes.jpeg</displayimg>
+        <desc>Plain doughnuts with chocolate</desc>
+        <allergy_info>Can contain traces of nuts</allergy_info>
+    </item>
+
+    <item category="drinks">
+        <name>Pinapple Juice</name>
+        <displayimg text="img of pancake" name="pancakes.jpeg">pancakes.jpeg</displayimg>
+        <price>$10</price>
+        <desc>Freshly squeezed pineapple juice</desc>
+        <allergy_info>Can contain traces of nuts</allergy_info>
+    </item>
+</bmenu>
